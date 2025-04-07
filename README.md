@@ -1,7 +1,7 @@
 ## 🤓 Olá, sou o Jonathan! 🚀💻
 
 
-<br/>Atualmente, sou um **Desenvolvedor Front-End** com grande paixão por tecnologia, design e pela criação de experiências digitais imersivas, buscando evoluir para a área de desenvolvimento Full Stack. Possuo sólidos conhecimentos em **HTML, CSS e JavaScript**, além de utilizar bibliotecas como **Bootstrap, JQuery, AOS (Animate On Scroll Library)**, entre outras, para desenvolver interfaces modernas e responsivas.
+<br/>Atualmente, sou um estudante de **Desenvolvimento Web** com grande paixão por tecnologia, design e pela criação de experiências digitais imersivas, buscando evoluir para a área de desenvolvimento Full Stack. Possuo sólidos conhecimentos em **HTML, CSS e JavaScript**, além de utilizar bibliotecas como **Bootstrap, JQuery, AOS (Animate On Scroll Library)**, entre outras, para desenvolver interfaces modernas e responsivas.
 
 Atualmente, estou aprimorando minhas habilidades em JavaScript e React, além de explorar ferramentas como **WordPress e Photoshop** para elevar a qualidade dos meus projetos. Estou constantemente em busca de aprendizado e inovações, com o objetivo de transformar ideias em soluções digitais por meio do código.
 
