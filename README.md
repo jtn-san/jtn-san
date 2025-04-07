@@ -62,7 +62,7 @@ Estou sempre disposto a compartilhar conhecimento e colaborar com a comunidade d
 ### 📊 <br/>GitHub Stats:
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jtn-san&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jtn-san&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_title=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtn-san&layout=compact&langs_count=7&theme=dracula"/>
 
 </div>
