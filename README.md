@@ -38,7 +38,7 @@ Estou sempre disposto a compartilhar conhecimento e colaborar com a comunidade d
 
 ---
 
-### 🛠 Linguagens e Ferramentas:<br/>Languages & Tools:
+### 🛠 Linguagens e Ferramentas em desenvolvimento:<br/>Languages & Tools in development:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="40" />
