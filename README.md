@@ -1,3 +1,5 @@
+>>[PT-BR]
+
 ## 🤓 Olá, sou o Jonathan! 🚀💻
 
 
@@ -7,8 +9,15 @@ Atualmente, estou aprimorando minhas habilidades em JavaScript e React, além de
 
 Estou sempre disposto a compartilhar conhecimento e colaborar com a comunidade de tecnologia. 🚀
 
->Em contrução o texto em inglês..
->>[EN] English text under construction.
+>>[EN]
+
+## 🤓 Hello, I'm Jonathan! 🚀💻
+
+I'm currently a Web Development student with a strong passion for technology, design, and the creation of immersive digital experiences, seeking to transition into Full Stack Development. I possess solid knowledge of HTML, CSS, and JavaScript, as well as experience with libraries such as Bootstrap, jQuery, and AOS (Animate On Scroll), among others, to develop modern and responsive user interfaces.
+
+At present, I am enhancing my skills in JavaScript and React, while also exploring tools such as WordPress and Adobe Photoshop to further improve the quality and professionalism of my projects. I am committed to continuous learning and innovation, with the goal of transforming ideas into efficient and impactful digital solutions through code.
+
+I am always open to sharing knowledge and collaborating with the technology community. 🚀
 
 ---
 
